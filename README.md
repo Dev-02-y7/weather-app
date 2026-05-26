@@ -2,6 +2,8 @@ Weather App
 
 A Weather application built while learning how APIs and frontend JavaScript work together in real projects. The app allows users to search any city and instantly view real-time weather information through a clean and responsive interface.
 
+<img width="901" height="840" alt="Screenshot 2026-05-26 232728" src="https://github.com/user-attachments/assets/89d62f07-e227-49c3-b2b5-62cdc70600e4" />
+
 Features -
 
 - Search weather by city name
